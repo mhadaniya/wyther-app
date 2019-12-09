@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "998814342847",
+    "firebase_url": "https://wyther-app.firebaseio.com",
+    "project_id": "wyther-app",
+    "storage_bucket": "wyther-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998814342847:android:388db15060fa7db6",
+        "android_client_info": {
+          "package_name": "br.edu.unifil.wyther"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998814342847-fbjbk3srl8tqu22sqd20g9t2sae7f3fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO4G6s1hmKBmRcC7ozAZfMvoXnqC4gAaU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
